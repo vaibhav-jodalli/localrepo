@@ -1,2 +1,2 @@
 print("How is it going")
-pirnt("THIS IS A NEW FEATURE(button)")
+print("THIS IS A NEW FEATURE(button)")
